@@ -18,7 +18,7 @@
 
 --显示回复：回到 interactive-mode.ts，找到订阅事件的逻辑，通常是监听 message_update（流式输出）和 message_end（流结束）来更新终端的 UI。
 图1：
-![Uploading deepseek_mermaid_20261126_94fbee.png…]()
+<img width="5756" height="3554" alt="deepseek_mermaid_20261126_94fbee" src="https://github.com/user-attachments/assets/16e9d940-0204-4c51-b8bc-e8b0d00a5d73" />
 
 
 
