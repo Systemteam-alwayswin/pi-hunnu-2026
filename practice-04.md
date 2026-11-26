@@ -73,4 +73,5 @@ node .\packages\coding-agent\dist\cli.js
 **截图要求 S6：**  显示会话 B 的输入指令、`read` 工具读取 practice4.txt 的记录、Pi 返回的实验代号，以及实际出现的两类 [P4] 日志。
 <img width="959" height="1105" alt="capture_20261126164839855" src="https://github.com/user-attachments/assets/6197a681-f259-4fb8-bc10-a7df497c4e4b" />
 进入 2 轮模型调用。第一轮模型决定调用 read 工具；工具执行完毕后，结果被加入上下文；触发第二轮模型请求，模型根据文件内容生成了最终回答。
+<img width="4317" height="990" alt="deepseek_mermaid_20261126_d5d50b" src="https://github.com/user-attachments/assets/39e26794-8d38-458b-a693-cf953ddab00e" />
 
